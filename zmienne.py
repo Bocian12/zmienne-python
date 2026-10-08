@@ -12,3 +12,4 @@ print("Typ zmiennej: ", type(liczba_zespolona))
 print(1//2)
 #potęgowanie
 print(5**2)
+
